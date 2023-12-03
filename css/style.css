@@ -3,7 +3,7 @@
 		img{width:100%; border:0; margin:0; padding:0;}
 		a{text-decoration:none; margin:0; padding:0;}
 		ul, li, ol{margin:0; pading:0; list-style:none;}
-		.wrap{max-width:640px; margin:0 auto;}
+		.wrap{margin:0 auto;}
 
 		.db_box {
 			background: #211a1e;
@@ -11,7 +11,7 @@
 		}
 
 		.db_box td {
-			font-family: "챘짠�샖�앪궗 챗쨀혻챘�앪��";
+			
 			font-size: 16px;
 			line-height: 24px;
 			padding: 3px 0;
@@ -20,7 +20,6 @@
 		}
 
 		#db_box {
-			background: url(http://wecyd.com/biz/lotto/m03/db_bg.png) repeat-y;
 			background-size: 100%;
 			padding: 10px 30px;
 		}
@@ -35,7 +34,7 @@
 		.db_bt {text-align: center;margin: 15px auto;}
 		.db_bt img {width: 80%; margin:0 auto;}
 		.db_name{font-size: 12px;}
-		.agree {font-size: 10px;color: #333;font-family: '챘짠�샖�앪궗챗쨀혻챘�앪��';padding: 5px 0 5px 0;}
+		.agree {font-size: 10px;color: #333;padding: 5px 0 5px 0;}
 
 		/* input */
 		.input_text_wrap{position:relative; width:80%; display:inline-block; font-size:16px; margin:5px 0px;}
